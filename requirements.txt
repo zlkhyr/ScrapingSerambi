@@ -1,0 +1,14 @@
+jupyter
+pandas
+lxml
+tqdm
+matplotlib
+openpyxl
+nltk
+wordcloud
+scikit-learn
+imbalanced-learn
+requests
+textblob
+yellowbrick
+beautifulsoup4
