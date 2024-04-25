@@ -12,10 +12,9 @@ Ini adalah project atau pekerjaan yang saya lakukan selama magang di Badan Pusat
 
 ## Table Of Content
 
-- [Installation](#installation)
-    - [Composer](#composer)
-    - [DDev or Colima](#ddev)
-    - [TER](#ter-extension)
+- [Setup](#setup)
+    - [VsCode](#vscode)
+    - [Conda](#conda)
 - [TYPO3 setup](#typo3-setup)
     - [Database setup](#database-setup)
     - [Security](#security)
@@ -29,16 +28,12 @@ Ini adalah project atau pekerjaan yang saya lakukan selama magang di Badan Pusat
 - [License](#license)
 - [Links](#links)
 
-## Installation
-
-This document is for the latest Aimeos TYPO3 **22.10 release and later**.
-
-- LTS release: 23.10 (TYPO3 12 LTS)
-- Old LTS release: 22.10 (TYPO3 11 LTS)
-
-### Composer
-
-**Note:** composer 2.1+ is required!
+## Setup
+Clone repositori ini:
+```bash
+git clone 
+```
+### VsCode
 
 The latest TYPO3 version can be installed via composer. This is especially useful, if you want to create new TYPO3 installations automatically or play with the latest code. You need to install the composer package first, if it isn't already available:
 
@@ -104,7 +99,7 @@ If you experience any errors with the database, please check the [Database Setup
 
 Please keep on reading below the "TER Extension" installation section!
 
-### DDev
+### Conda
 
 *Note:* Installation instructions for TYPO3 with `ddev` or `Colima` can be found here:
 [TYPO3 with ddev or colima](https://ddev.readthedocs.io/en/latest/users/quickstart/)
