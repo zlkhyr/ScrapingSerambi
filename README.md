@@ -10,23 +10,7 @@ Ini adalah project atau pekerjaan yang saya lakukan selama magang di Badan Pusat
 
 ![aimeos-frontend](https://as1.ftcdn.net/v2/jpg/01/45/68/18/1000_F_145681874_RbPDrZBa5Z5z7PVifHCrCPnBufdgnPA5.jpg)
 
-# Table Of Content
-
-- [Setup](#setup)
-    - [VsCode](#vscode)
-    - [Anaconda atau Miniconda](#anaconda-atau-miniconda)
-- [TYPO3 setup](#typo3-setup)
-    - [Database setup](#database-setup)
-    - [Security](#security)
-- [Page setup](#page-setup)
-    - [Download the Aimeos Page Tree t3d file](#download-the-aimeos-page-tree-t3d-file)
-    - [Go to the Import View](#go-to-the-import-view)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the page tree](#import-the-page-tree)
-    - [SEO-friendly URLs](#seo-friendly-urls)
-- [License](#license)
-- [Links](#links)
+Project ini terdiri dari 2 hal yaitu membuat program untuk scraping berita tentang aceh dari website serambi dan membuat model untuk mengklasifikasi label dari dataset berita yang sudah disediakan oleh BPS untuk selanjutnya model tersebut diimplementasikan ke data yang sebelumnya didapatkan dari hasil scraping.
 
 # Setup
 ***Note***: `Python`, `VsCode` dan `Anaconda` atau `Miniconda` sudah terinstall
@@ -100,7 +84,7 @@ jupyter notebook
 ```
 Buka file proyek_machine_learning.ipynb di antarmuka Jupyter Notebook, Jalankan sel-sel di notebook untuk menjalankan proyek machine learning.
 
-# Links
+## Penjelasan tentang project
 
 * [Laporan](https://docs.google.com/document/d/14NRzYf_ItsfcX_gsvu0QpReglbGvtiqsjSfx_2-CuWk/edit?usp=sharing)
 
