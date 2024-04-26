@@ -4,7 +4,7 @@
 
 # Pengumpulan dan Klasifikasi Data Berita di BPS Provinsi Aceh menggunakan Web Scraping dan Model Machine Learning
 
-:star: Project Magang di BPS Provinsi Aceh
+:star: Project Magang di BPS Provinsi Aceh : ***Zul Akhyar  - 2008107010080*** 
 
 Ini adalah project atau pekerjaan yang saya lakukan selama magang di Badan Pusat Statistik (BPS) Provinsi Aceh.
 
