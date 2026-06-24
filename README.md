@@ -4,10 +4,6 @@
 
 # Pengumpulan dan Klasifikasi Data Berita di BPS Provinsi Aceh menggunakan Web Scraping dan Model Machine Learning
 
-:star: Project Magang di BPS Provinsi Aceh : ***Zul Akhyar  - 2008107010080*** 
-
-Ini adalah project atau pekerjaan yang saya lakukan selama magang di Badan Pusat Statistik (BPS) Provinsi Aceh.
-
 ![aimeos-frontend](https://as1.ftcdn.net/v2/jpg/01/45/68/18/1000_F_145681874_RbPDrZBa5Z5z7PVifHCrCPnBufdgnPA5.jpg)
 
 Project ini terdiri dari 2 hal yaitu membuat program untuk scraping berita tentang aceh dari website serambi dan membuat model untuk mengklasifikasi label dari dataset berita yang sudah disediakan oleh BPS untuk selanjutnya model tersebut diimplementasikan ke data yang sebelumnya didapatkan dari hasil scraping.
