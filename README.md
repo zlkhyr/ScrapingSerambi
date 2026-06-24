@@ -80,7 +80,3 @@ jupyter notebook
 ```
 Buka file proyek_machine_learning.ipynb di antarmuka Jupyter Notebook, Jalankan sel-sel di notebook untuk menjalankan proyek machine learning.
 
-## Penjelasan tentang project
-
-* [Laporan](https://docs.google.com/document/d/14NRzYf_ItsfcX_gsvu0QpReglbGvtiqsjSfx_2-CuWk/edit?usp=sharing)
-
